@@ -254,6 +254,12 @@
     }
   }
 
+  @media (max-width: 240px){
+    h2{
+      font-size: 20px;
+    }
+  }
+
 /* 
   @media (max-width: 750px) {
     h2{
